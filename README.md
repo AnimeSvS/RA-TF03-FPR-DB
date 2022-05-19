@@ -16,10 +16,11 @@ Visual Studio 2022
 Descargar e importar la carpeta en Unity
 ```
 ## Construido con 🛠️
-
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Lenguaje usado
+**Lenguajes usado**
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * [Unity](https://unity.com/) - Programa usado
 * [VisualStudio2022](https://visualstudio.microsoft.com/es/) - Editor de Scripts
+* [Json](https://www.json.org/json-en.html)
 
 ## Version !
 *1.03
